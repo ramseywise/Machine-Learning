@@ -1,5 +1,5 @@
 # Machine-Learning
-Python Assignments from Andrew Ng's Machine Learning and deep learning Courses (Stanford)
+Python Assignments from Andrew Ng's Machine Learning and Deep Learning Courses (Stanford)
 
    - Machine Learning (Stanford)
         - Linear Regression
