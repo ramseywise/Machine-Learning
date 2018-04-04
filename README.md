@@ -1,5 +1,7 @@
 # Machine-Learning
-Python Assignments from Andrew Ng's Machine Learning Course (Stanford)
+Python Assignments from Andrew Ng's Machine Learning and deep learning Courses (Stanford)
+
+   - Machine Learning (Stanford)
         - Linear Regression
         - Logistic Regression
         - Multi-class Classification
@@ -14,5 +16,8 @@ Python Assignments from Andrew Ng's Machine Learning Course (Stanford)
         - Structuring Machine Learning Projects
         - Convolutional Neural Networks
         - Sequence Models
+
+
+
 
 
