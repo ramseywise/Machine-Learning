@@ -4,7 +4,7 @@ Python Assignments from Andrew Ng's Machine Learning and Deep Learning Courses (
    - Machine Learning (Stanford)
         - Linear Regression
         - Logistic Regression
-        - Multi-class Classification
+        - Multiclass Classification
         - Neural Networks
         - Regularization, Bias vs Variance
         - Support Vector Machines
