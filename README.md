@@ -9,7 +9,7 @@ Python Assignments from Andrew Ng's Machine Learning and Deep Learning Courses (
         - Regularization, Bias vs Variance
         - Support Vector Machines
         - K-means Clustering
-        - Anomaly Detectionand Recommender Systems
+        - Anomaly Detection and Recommender Systems
    - Deep Learning (deeplearning.ai)
         - Neural Networks and Deep Learning
         - Hyperparameter tuning, Regularization and Optimization
