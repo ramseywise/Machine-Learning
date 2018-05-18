@@ -1,6 +1,6 @@
 # Machine-Learning
 
-Introduction to Machine Learning with Python (examples from Mueller and Guido book). Plus, assignments from Andrew Ng's Machine Learning and Deep Learning Courses:
+Assignments from Andrew Ng's Machine Learning and Deep Learning Courses in Python:
 
    - Machine Learning (Stanford)
         - Linear Regression
@@ -18,7 +18,7 @@ Introduction to Machine Learning with Python (examples from Mueller and Guido bo
         - Convolutional Neural Networks
         - Sequence Models
 
-
+Code heavily borrowed from Mueller/Guido Introduction to ML as well as repos from kaleko, rranundez and andrewnoble on ML.
 
 
 
