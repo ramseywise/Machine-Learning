@@ -1,5 +1,6 @@
 # Machine-Learning
-Python Assignments from Andrew Ng's Machine Learning and Deep Learning Courses:
+
+Introduction to Machine Learning with Python (examples from Mueller and Guido book). Plus, assignments from Andrew Ng's Machine Learning and Deep Learning Courses:
 
    - Machine Learning (Stanford)
         - Linear Regression
