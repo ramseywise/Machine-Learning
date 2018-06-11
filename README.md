@@ -18,7 +18,7 @@ Assignments from Andrew Ng's Machine Learning and Deep Learning Courses in Pytho
         - Convolutional Neural Networks
         - Sequence Models
 
-Code heavily borrowed from Mueller/Guido Introduction to ML as well as repos from kaleko, rranundez and andrewnoble on ML.
+Code heavily borrowed from Mueller/Guido Introduction to ML as well as repos from kaleko, rranundez and andrewnoble.
 
 
 
